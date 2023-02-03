@@ -1,3 +1,6 @@
+Olá, Eu sou Lucas Henrique
+
+- Atualmente estudo HTML, CSS  e JAVASCRIPT.
 
 #### Front-end  
 <div style="display: inline_block">
